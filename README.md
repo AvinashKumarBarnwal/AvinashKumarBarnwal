@@ -22,6 +22,33 @@ This GitHub profile documents my:
 
 ---
 
+# 🚀 Featured Repository
+
+AI/ML Learning Journey repository containing:
+- Machine Learning Assignments
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Regression & Classification Models
+- Model Evaluation
+- Practical ML Implementations
+- MLOps Learning Progression
+
+[![ML Journey](https://img.shields.io/badge/GitHub-ML%20Learning%20Journey-blue?style=for-the-badge&logo=github)](https://github.com/AvinashKumarBarnwal/my-ml-learning-journey)
+
+---
+
+# 📚 What You'll Find Here
+
+This GitHub profile documents my:
+- AI/ML learning journey
+- Hands-on assignments and experiments
+- Cloud & Kubernetes work
+- MLOps exploration
+- Backend engineering experience
+- Infrastructure automation and technical learnings
+
+---
+
 # 💼 Professional Background
 
 ## Backend Development (7 Years)
